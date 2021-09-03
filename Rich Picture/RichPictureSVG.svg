@@ -3607,7 +3607,7 @@
 				<v:textRect cx="42.5197" cy="739.706" width="97.14" height="22.4037"/>
 				<text x="-0.69" y="743.31" class="st23" v:langID="3081"><v:paragraph v:horizAlign="1"/><v:tabList/>Storage Locations</text>			</g>
 		</g>
-		<g id="shape1057-1202" v:mID="1057" v:groupContext="shape" v:layerMember="1" transform="translate(510.236,-289.134)">
+		<g id="shape1057-1202" v:mID="1057" v:groupContext="shape" v:layerMember="1" transform="translate(511.654,-291.969)">
 			<title>Dynamic connector.1057</title>
 			<desc>Return hired pack(s)</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -4300,5 +4300,24 @@
 				<text x="-65.42" y="715.33" transform="scale(-1,1)" class="st172" v:langID="1033"><v:paragraph/><v:tabList/>Are the packs <tspan
 							x="-65.42" dy="1.2em" class="st173">satisfactory for </tspan><tspan x="-65.42" dy="1.2em" class="st173">customers?</tspan></text>			</g>
 		</g>
+		<g id="shape1168-1562" v:mID="1168" v:groupContext="shape" v:layerMember="1" transform="translate(436.535,-476.22)">
+			<title>Dynamic connector.1168</title>
+			<desc>Checks condition of Equipment Packs</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-53.8583" cy="845.291" width="73.47" height="27.2035"/>
+			<path d="M0 734.68 L0 735.04 L0 847.56 L-122.27 847.56" class="st180"/>
+			<rect v:rectContext="textBkgnd" x="-85.686" y="835.692" width="63.6556" height="19.1997" class="st171"/>
+			<text x="-85.69" y="842.89" class="st172" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Checks condition of<v:newlineChar/><tspan
+						x="-81.62" dy="1.2em" class="st173">Equipment Packs</tspan></text>		</g>
+		<g id="shape1170-1572" v:mID="1170" v:groupContext="shape" v:layerMember="1" transform="translate(545.669,-524.409)">
+			<title>Dynamic connector.1170</title>
+			<desc>Records location of Equipment Packs</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-164.409" cy="922.677" width="73.81" height="27.2035"/>
+			<path d="M-6.18 728.5 L-6.54 728.5 L-59.53 728.5 L-59.53 827.72 L-92.13 827.72 L-92.13 918.72 L-224.1 918.72"
+					class="st180"/>
+			<rect v:rectContext="textBkgnd" x="-196.407" y="913.077" width="63.9954" height="19.1997" class="st171"/>
+			<text x="-191.44" y="920.28" class="st172" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Records location<v:newlineChar/><tspan
+						x="-196.41" dy="1.2em" class="st173">of Equipment Packs</tspan></text>		</g>
 	</g>
 </svg>
